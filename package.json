@@ -1,20 +1,18 @@
 {
-  "name": "electron-quick-start",
+  "name": "macos-tools-gui",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "An Electron application for macos tools",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/ludochane/macos-tools-gui.git",
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "macos",
+    "gui"
   ],
-  "author": "GitHub",
+  "author": "ludochane",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.7.8"
